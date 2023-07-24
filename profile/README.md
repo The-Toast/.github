@@ -8,6 +8,7 @@
 <br />
 
 <b><big>Toast - Developers</big></b>
+<p>모든 생각을 현실로.</p>
 
 </div>
 

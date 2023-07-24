@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<p>Toast - Developers</p>
+<b><big>Toast - Developers</big></b>
 
 </div>
 

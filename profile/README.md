@@ -8,7 +8,7 @@
 <br />
 
 <b><big>Toast - Developers</big></b><br />
-<p style="font-size: 10px">So Far, So Good</p>
+<p><font size="10">So Far, So Good</font></p>
 
 </div>
 

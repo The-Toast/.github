@@ -1,4 +1,4 @@
-ㅍ<br />
+<br />
 
 <div align="center">
   
@@ -7,7 +7,6 @@
 <br />
 <br />
 
-<b><big>Toast - Developers</big></b><br />
 So Far, So Good
 
 </div>

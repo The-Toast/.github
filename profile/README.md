@@ -6,7 +6,7 @@
 
 <div>
   <h3>Member</h3>
-  <img src="https://github.com/The-Toast/.github/blob/main/member.png" width="300"/>
+  <img src="https://github.com/The-Toast/.github/blob/main/profile/member.png" width="300"/>
 </div>
 
 ##
